@@ -33,5 +33,3 @@ require (
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
-
-replace github.com/docker/docker => github.com/docker/engine v0.0.0-20191011211953-adfac697dc5b
